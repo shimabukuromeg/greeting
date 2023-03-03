@@ -3,7 +3,8 @@ package main
 
 import (
 	"fmt"
-	"greeting"
+
+	"github.com/shimabukuromeg/greeting"
 )
 
 func main() {
